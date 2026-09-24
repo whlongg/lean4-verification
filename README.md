@@ -31,9 +31,15 @@ This repo tracks my personal survival journey through **Lean 4** and formal soft
 
 ### Current Survival Status
 
-* [ ] Understand Dependent Type Theory without getting an aneurysm
-* [ ] Stop replacing hard proofs with `sorry`
-* [ ] Model an agent routing state machine without breaking the Lean compiler
-* [ ] Convince my professor to let me use Python instead
+- [ ] Understand Dependent Type Theory without getting an aneurysm
+- [ ] Stop replacing hard proofs with `sorry`
+- [ ] Model an agent routing state machine without breaking the Lean compiler
+- [ ] Convince my professor to let me use Python instead
+
+## Verification Roadmap
+- [ ] **[1. Functional Core]** → Inductive Types, Pattern Matching, Recursion
+- [ ] **[2. Curry-Howard & Logic]** → Propositions-as-Types, Induction, Basic Tactics
+- [ ] **[3. Transition System]** → Agent Modeling: State, Action, Transition Relations
+- [ ] **[4. Invariant Proofs]** → Formally Proving Deadlock-Freedom & Safe Routing
 
 > **Friendly PSA:** *If you DO NOT want your professor forcing you to retake this cursed shit for a second semester, DO NOT use Codex Ultra Mode lol.*
