@@ -36,7 +36,7 @@ This repo tracks my personal survival journey through **Lean 4** and formal soft
 - [ ] Model an agent routing state machine without breaking the Lean compiler
 - [ ] Convince my professor to let me use Python instead
 
-## Verification Roadmap
+### Verification Roadmap
 - [ ] **[1. Functional Core]** → Inductive Types, Pattern Matching, Recursion
 - [ ] **[2. Curry-Howard & Logic]** → Propositions-as-Types, Induction, Basic Tactics
 - [ ] **[3. Transition System]** → Agent Modeling: State, Action, Transition Relations
